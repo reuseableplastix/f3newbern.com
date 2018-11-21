@@ -1,1 +1,1 @@
-# f3newbern.com
+Child Theme for f3newbern.com
