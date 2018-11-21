@@ -1,0 +1,45 @@
+/*
+Theme Name: F3 New Bern
+Theme URI: http://example.com/twenty-seventeen-child/
+Description: Posiedon Child Theme for F3 New Bern
+Author: Gabe Stix (Mr. Roboto)
+Template: poseidon
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: child theme
+*/
+
+/* Entry Tags */
+.entry-tags {
+/*	clear: both;*/
+	margin: 0 0 2em;
+}
+
+.entry-tags .meta-tags {
+/* 	display: block;*/
+	margin: 0;
+	font-size: 14px;
+	font-size: 0.875rem;
+}
+
+.entry-tags .meta-tags a {
+	display: inline-block;
+	float: left;
+	margin: 0 2px 2px 0;
+	padding: 0.2em 0.5em 0.3em;
+	background: #eee;
+	text-decoration: none;
+}
+
+.entry-tags .meta-tags a:link,
+.entry-tags .meta-tags a:visited {
+	color: #777;
+	transition: all 0.2s ease;
+}
+
+.entry-tags .meta-tags a:hover,
+.entry-tags .meta-tags a:active {
+	background: #22aadd;
+	color: #fff;
+}
